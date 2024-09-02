@@ -17,8 +17,6 @@ function moneyFormatter(num) {
   );
 }
 
-//adding a comment to get a hands on experience with certain
-
 export const IncomeExpenses = () => {
   const { transactions } = useContext(GlobalContext);
 
